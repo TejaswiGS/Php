@@ -1,0 +1,28 @@
+body {
+    font-family:Verdana;
+    font-size: 30px;
+   // background-color: dimgrey; 
+    color: #f2f2f2;
+    padding: 10px;
+   background: linear-gradient(dimgrey, black);
+}
+
+h1
+{
+    font-family:forte;
+    text-align:center;
+    font-size:50px;
+    color:white; 
+    background-color: black;
+}
+
+a
+{  
+   
+font-family: Georgia, serif;
+text-decoration:none;
+font-size:30px;
+color:#e6e6e6;
+    //#18E302;
+font-weight:bold;
+}
